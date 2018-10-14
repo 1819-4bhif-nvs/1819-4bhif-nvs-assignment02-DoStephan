@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="630d7324-915f-44ab-b965-1bb5013c39c9" name="Default Changelist" comment="" />
+    <list default="true" id="630d7324-915f-44ab-b965-1bb5013c39c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../RestPrimer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RestPrimer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,23 +48,44 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1071958021">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7" />
+          <entry key="xml" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="XML" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+            <state relative-caret-position="470">
+              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/restprimer/rest/TimeServerResourceIT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="380">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,11 +102,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/at/htl/restprimer/rest/TimeServerResourceIT.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -97,48 +126,48 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="276" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="25" />
-    <option name="width" value="1090" />
-    <option name="height" value="738" />
+    <option name="width" value="1358" />
+    <option name="height" value="366" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="RestprimerSt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestprimerSt" type="462c0819:PsiDirectoryNode" />
+              <item name="Restprimer-st" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Restprimer-st" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestprimerSt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestprimerSt" type="462c0819:PsiDirectoryNode" />
+              <item name="Restprimer-st" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Restprimer-st" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestprimerSt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestprimerSt" type="462c0819:PsiDirectoryNode" />
+              <item name="Restprimer-st" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Restprimer-st" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestprimerSt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestprimerSt" type="462c0819:PsiDirectoryNode" />
+              <item name="Restprimer-st" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Restprimer-st" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestprimerSt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestprimerSt" type="462c0819:PsiDirectoryNode" />
+              <item name="Restprimer-st" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Restprimer-st" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -153,8 +182,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539031993207" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539520108788" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RestPrimer" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -171,8 +200,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="TimeServerResourceIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RestprimerSt" />
+    <configuration name="TimeServerResourceIT" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="at.htl.restprimer.rest.*" />
@@ -181,15 +209,12 @@
       </extension>
       <option name="PACKAGE_NAME" value="at.htl.restprimer.rest" />
       <option name="MAIN_CLASS_NAME" value="at.htl.restprimer.rest.TimeServerResourceIT" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.TimeServerResourceIT" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -203,6 +228,7 @@
       <updated>1538982290969</updated>
       <workItem from="1538982298107" duration="1332000" />
       <workItem from="1539031780125" duration="224000" />
+      <workItem from="1539519747627" duration="369000" />
     </task>
     <servers />
   </component>
@@ -213,15 +239,56 @@
     <history-entry file="TimeServerResourceIT - 2018.10.08 at 22h 50m 13s.xml">
       <configuration name="TimeServerResourceIT" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="java - 2018.10.14 at 14h 26m 53s.xml">
+      <configuration name="java" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeServerResourceIT - 2018.10.14 at 14h 27m 18s.xml">
+      <configuration name="TimeServerResourceIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeServerResourceIT - 2018.10.14 at 14h 28m 03s.xml">
+      <configuration name="TimeServerResourceIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeServerResourceIT - 2018.10.14 at 14h 28m 35s.xml">
+      <configuration name="TimeServerResourceIT" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1556000" />
+    <option name="totallyTimeSpent" value="1925000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="276" y="25" width="1090" height="738" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20729366" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20757575" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32608697" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -249,7 +316,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -258,20 +325,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/restprimer/rest/TimeServerResourceIT.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="470">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/restprimer/rest/TimeServerResourceIT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        <state relative-caret-position="380">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
